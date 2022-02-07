@@ -10,3 +10,6 @@ function increaseLakersScore() {
     lakersScore++
     console.log('laker function', lakersScore)
 }
+
+document.getElementById('trailblazersScore')
+document.getElementById('lakersScore')
