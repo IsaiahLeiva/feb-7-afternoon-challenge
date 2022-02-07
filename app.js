@@ -13,3 +13,4 @@ function increaseLakersScore() {
 
 document.getElementById('trailblazersScore')
 document.getElementById('lakersScore')
+
