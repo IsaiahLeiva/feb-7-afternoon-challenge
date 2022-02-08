@@ -2,7 +2,7 @@ let blazersScore = 0
 let lakersScore = 0
 
 function increaseBlazersScore() {
-    blazersScore + 3
+    blazersScore++
     console.log('blazer score', blazersScore)
     draw()
 }
